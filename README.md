@@ -31,13 +31,14 @@
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" alt="Docker"/>
 </p>
 <br>
-
+<br>
 <p align="center">
     <Strong>📗 Status</Strong><br>
-    💡usually use it and I'm most confident.
 </p>
+<br>
 <div align=center>
-    ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=joongsu&show_icons=true&theme=gotham)
     
+![joongsu's GitHub stats](https://github-readme-stats.vercel.app/api?username=joongsu&show_icons=true&theme=gotham)
 </div>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joongsu&layout=compact)
+
+
