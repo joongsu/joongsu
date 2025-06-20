@@ -35,7 +35,7 @@
 <p align="center">
     <Strong>📗 Status</Strong><br>
 </p>
-<br>
+
 <div align=center>
     
 ![joongsu's GitHub stats](https://github-readme-stats.vercel.app/api?username=joongsu&show_icons=true&theme=gotham)
